@@ -1,1 +1,198 @@
+1. Który system operacyjny jest rozwijany przez Google i przeznaczony głównie na urządzenia mobilne?
 
+A. iOS
+B. Windows Phone
+C. Android
+D. Linux
+
+Poprawna odpowiedź: C. Android
+Wyjaśnienie: Android jest systemem mobilnym rozwijanym przez Google i stosowanym w smartfonach oraz tabletach.
+
+2. Który język programowania jest obecnie zalecany przez Apple do tworzenia aplikacji na iOS?
+
+A. Objective-C
+B. Swift
+C. Java
+D. Kotlin
+
+Poprawna odpowiedź: B. Swift
+Wyjaśnienie: Swift jest nowoczesnym językiem zalecanym przez Apple do tworzenia aplikacji na iOS.
+
+3. Do przechowywania prostych ustawień użytkownika w aplikacji Android najczęściej wykorzystuje się:
+
+A. SQLite
+B. Firebase
+C. SharedPreferences
+D. Intent
+
+Poprawna odpowiedź: C. SharedPreferences
+Wyjaśnienie: SharedPreferences służy do zapisywania prostych danych, np. ustawień i preferencji użytkownika.
+
+4. Który element UI służy do wyświetlania listy przewijalnych elementów w Androidzie?
+
+A. Button
+B. TextView
+C. RecyclerView
+D. ImageView
+
+Poprawna odpowiedź: C. RecyclerView
+Wyjaśnienie: RecyclerView umożliwia wydajne wyświetlanie list i siatek danych.
+
+5. Język XAML jest najczęściej wykorzystywany do tworzenia interfejsu użytkownika w aplikacjach:
+
+A. Android (Java)
+B. iOS (Swift)
+C. Xamarin / .NET MAUI
+D. React Native
+
+Poprawna odpowiedź: C. Xamarin / .NET MAUI
+Wyjaśnienie: XAML służy do projektowania interfejsu użytkownika w technologiach opartych o .NET.
+
+6. Który element UI służy do wywołania akcji po kliknięciu przez użytkownika?
+
+A. Label
+B. Button
+C. ProgressBar
+D. Toolbar
+
+Poprawna odpowiedź: B. Button
+Wyjaśnienie: Button reaguje na kliknięcie użytkownika i wywołuje określoną akcję.
+
+7. Która usługa systemowa umożliwia pobieranie lokalizacji GPS w aplikacji mobilnej?
+
+A. SensorManager
+B. LocationManager
+C. NotificationManager
+D. PackageManager
+
+Poprawna odpowiedź: B. LocationManager
+Wyjaśnienie: LocationManager umożliwia pobieranie informacji o lokalizacji urządzenia.
+
+8. Do komunikacji aplikacji mobilnej z serwerem internetowym najczęściej używa się:
+
+A. XML Layout
+B. HTTP/HTTPS
+C. Bluetooth
+D. NFC
+
+Poprawna odpowiedź: B. HTTP/HTTPS
+Wyjaśnienie: Protokół HTTP/HTTPS jest podstawą komunikacji aplikacji mobilnych z serwerami.
+
+9. Która baza danych jest wbudowana i lokalnie wykorzystywana w aplikacjach Android?
+
+A. MySQL
+B. MongoDB
+C. SQLite
+D. PostgreSQL
+
+Poprawna odpowiedź: C. SQLite
+Wyjaśnienie: SQLite to lekka baza danych wbudowana w system Android.
+
+10. Który plik w Androidzie zawiera informacje o uprawnieniach aplikacji?
+
+A. build.gradle
+B. MainActivity.java
+C. AndroidManifest.xml
+D. layout.xml
+
+Poprawna odpowiedź: C. AndroidManifest.xml
+Wyjaśnienie: W pliku manifestu deklaruje się m.in. uprawnienia aplikacji.
+
+11. Które narzędzie służy do uruchamiania i testowania aplikacji Android na emulatorze?
+
+A. Xcode
+B. Android Studio
+C. Visual Studio Code
+D. Eclipse
+
+Poprawna odpowiedź: B. Android Studio
+Wyjaśnienie: Android Studio to oficjalne środowisko do tworzenia i testowania aplikacji Android.
+
+12. Który element UI jest używany do wyświetlania krótkich informacji w formie okna dialogowego?
+
+A. Toast
+B. Intent
+C. Fragment
+D. Service
+
+Poprawna odpowiedź: A. Toast
+Wyjaśnienie: Toast wyświetla krótkie komunikaty informacyjne na ekranie.
+
+13. Która technologia umożliwia wysyłanie powiadomień push do aplikacji mobilnych?
+
+A. GPS
+B. REST API
+C. Firebase Cloud Messaging
+D. SQLite
+
+Poprawna odpowiedź: C. Firebase Cloud Messaging
+Wyjaśnienie: FCM służy do obsługi powiadomień push w aplikacjach mobilnych.
+
+14. Dostosowanie aplikacji do różnych rozmiarów ekranów polega m.in. na:
+
+A. Zwiększeniu liczby klas
+B. Używaniu zasobów layout dla różnych rozdzielczości
+C. Zmniejszeniu kodu aplikacji
+D. Wyłączeniu animacji
+
+Poprawna odpowiedź: B. Używaniu zasobów layout dla różnych rozdzielczości
+Wyjaśnienie: Android umożliwia tworzenie osobnych layoutów dla różnych ekranów.
+
+15. Który plik odpowiada za projekt interfejsu użytkownika w aplikacji Android?
+
+A. .java
+B. .kt
+C. .xml
+D. .json
+
+Poprawna odpowiedź: C. .xml
+Wyjaśnienie: Interfejs użytkownika w Androidzie definiuje się w plikach XML.
+
+16. Która metoda służy do uruchomienia nowej aktywności w Androidzie?
+
+A. startActivity()
+B. newActivity()
+C. openActivity()
+D. loadActivity()
+
+Poprawna odpowiedź: A. startActivity()
+Wyjaśnienie: Metoda startActivity() uruchamia nową aktywność w aplikacji.
+
+17. Który typ aplikacji mobilnej umożliwia wprowadzanie danych przez użytkownika?
+
+A. Zegar
+B. Kalendarz
+C. Formularz
+D. Odtwarzacz muzyki
+
+Poprawna odpowiedź: C. Formularz
+Wyjaśnienie: Formularze służą do wprowadzania i przesyłania danych przez użytkownika.
+
+18. Publikując aplikację w Google Play, należy przygotować m.in.:
+
+A. Tylko plik APK
+B. Opis aplikacji, ikonę i wersję produkcyjną
+C. Kod źródłowy aplikacji
+D. Dokumentację techniczną
+Poprawna odpowiedź: B. Opis aplikacji, ikonę i wersję produkcyjną
+Wyjaśnienie: Sklep Google Play wymaga materiałów opisowych i pliku aplikacji.
+
+19. Który format pliku jest obecnie zalecany do publikacji aplikacji Android w Google Play?
+
+A. APK
+B. ZIP
+C. AAB
+D. JAR
+
+Poprawna odpowiedź: C. AAB
+Wyjaśnienie: Android App Bundle (AAB) to obecnie zalecany format publikacji.
+
+20. Który element UI odpowiada za górny pasek aplikacji z tytułem i akcjami?
+
+A. StatusBar
+B. NavigationView
+C. Toolbar
+D. FloatingActionButton
+
+Poprawna odpowiedź: C. Toolbar
+Wyjaśnienie: Toolbar zawiera tytuł aplikacji oraz przyciski akcji.
