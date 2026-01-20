@@ -1,1 +1,108 @@
 
+1. Do czego służy Intent w Android Studio?
+A. Do przechowywania danych w pamięci lokalnej
+B. Do uruchamiania nowych Activity i przesyłania danych między nimi
+C. Do odtwarzania dźwięku w aplikacji
+D. Do wyświetlania powiadomień użytkownikowi
+
+2. W Android Studio chcesz pobierać dane z internetu w tle i zaktualizować UI po zakończeniu. Które rozwiązanie jest poprawne?
+A. Pobieranie danych w głównym wątku UI
+B. startActivity()
+C. AsyncTask lub Coroutine
+D. Zapisywanie danych w SharedPreferences bez aktualizacji UI
+
+3. W aplikacji użytkownik wypełnia formularz danych osobowych. Które podejście minimalizuje ryzyko zapisania niepoprawnych danych?
+A. Wyświetlanie komunikatów błędów dopiero po awarii bazy
+B. Walidacja wszystkich danych dopiero po stronie serwera
+C. Walidacja danych po stronie klienta przed zapisaniem
+D. Zapisywanie wszystkich danych i obsługa błędów później
+
+4. Aby w Android Studio połączyć dane z RecyclerView z widokiem każdego elementu, należy użyć:
+A. RecyclerView
+B. AsyncTask
+C. Adapter
+D. MediaPlayer
+
+5. W Android Studio, aby powiązać dane z kontrolką UI przy użyciu architektury MVVM (Model-View-ViewModel), należy użyć:
+A. ScrollView
+B. MediaPlayer
+C. Toast
+D. Data Binding / BindingAdapter
+
+6. Aby powiadomić użytkownika o zdarzeniu w aplikacji Android, nawet gdy aplikacja jest w tle, należy użyć:
+A. NotificationManager i Notification
+B. TextView
+C. Button
+D. MediaPlayer
+
+7. Aby wyświetlić listę opcji w formie rozwijanego menu w Android Studio, najlepiej użyć:
+A. Spinner
+B. TextView
+C. Button
+D. EditText
+
+8. W Android Studio chcesz pobrać dane z serwera REST i wyświetlić je w UI. Które narzędzie najlepiej to obsłuży?
+A. RecyclerView
+B. Adapter
+C. Notification
+D. Retrofit
+
+9. Aplikacja ma działać na smartfonach i tabletach w różnych orientacjach. Jak najlepiej zaprojektować interfejs użytkownika?
+A. Blokada orientacji w poziomie
+B. Usunięcie grafik dla mniejszych ekranów
+C. Tylko dla jednego rozmiaru ekranu
+D. Elastyczne układy, skalowalne elementy i względne rozmiary
+
+10. W Android Studio, aby przechowywać strukturalne dane lokalnie z możliwością zapytań SQL, należy użyć:
+A. SQLite
+B. SharedPreferences
+C. Intent
+D. Toast
+
+11. W Android Studio, aby reagować na kliknięcia elementów listy w RecyclerView, należy użyć:
+A. setOnClickListener() w ViewHolder + Adapter
+B. ScrollView
+C. startActivity()
+D. TextView
+
+12. Który komponent Android Studio jest wydajniejszy przy wyświetlaniu dużych list danych i umożliwia ponowne użycie widoków elementów?
+A. ScrollView
+B. RecyclerView
+C. ListView
+D. LinearLayout
+
+13. Aplikacja kalendarza musi obsługiwać różne strefy czasowe. Jak najlepiej przechowywać daty i godziny w bazie danych, aby poprawnie wyświetlały się dla wszystkich użytkowników?
+A. Jako stałe wartości lokalne zapisane w kodzie
+B. Pozostawić użytkownikowi ręczne ustawienie
+C. Jako timestamp UTC i konwertować na czas lokalny przy wyświetlaniu
+D. Jako tekst w lokalnym formacie daty
+
+14. Aby wyświetlić w Android Studio rozwijaną listę wyboru, w której elementy pochodzą z tablicy danych, należy użyć:
+A. Spinner + Adapter
+B. ScrollView
+C. LinearLayout
+D. ListView bez Adaptera
+
+15. W aplikacji mobilnej użytkownik może ustawić powiadomienia i motyw kolorystyczny. Gdzie najlepiej przechowywać te dane, aby były trwałe i łatwo dostępne?
+A. Zmienne w RAM
+B. Plik tymczasowy
+C. Globalna tablica w kodzie
+D. SharedPreferences / UserDefaults
+
+Klucz odpowiedzi
+
+B
+C
+C
+C
+D
+A
+A
+D
+D
+A
+A
+B
+C
+A
+D
