@@ -1,1 +1,120 @@
+1. Który język jest najczęściej używany do tworzenia aplikacji natywnych na Androida?
 
+A. Swift
+B. Kotlin
+C. C#
+D. PHP
+
+2. Do czego służy plik AndroidManifest.xml?
+
+A. Do definiowania stylów aplikacji
+B. Do przechowywania danych użytkownika
+C. Do deklarowania komponentów aplikacji i uprawnień
+D. Do kompilacji aplikacji
+
+3. Który komponent Androida odpowiada za interfejs użytkownika?
+
+A. Service
+B. BroadcastReceiver
+C. Activity
+D. ContentProvider
+
+4. Jakiego formatu używa się najczęściej do projektowania layoutu w Androidzie?
+
+A. JSON
+B. XML
+C. HTML
+D. CSS
+
+5. Która metoda uruchamia się przy starcie aktywności?
+
+A. onPause()
+B. onStop()
+C. onCreate()
+D. onDestroy()
+
+6. Do czego służy Intent w Androidzie?
+
+A. Do tworzenia baz danych
+B. Do komunikacji między komponentami
+C. Do obsługi grafiki
+D. Do zarządzania pamięcią
+
+7. Który element służy do wyświetlania tekstu w aplikacji Android?
+
+A. EditText
+B. Button
+C. TextView
+D. ImageView
+
+8. Jak nazywa się oficjalne środowisko do tworzenia aplikacji Android?
+
+A. Visual Studio
+B. NetBeans
+C. Android Studio
+D. Eclipse
+
+9. Która baza danych jest wbudowana w Androida?
+
+A. MySQL
+B. PostgreSQL
+C. MongoDB
+D. SQLite
+
+10. Do czego służy Toast?
+
+A. Do zapisu danych
+B. Do wyświetlania krótkich komunikatów
+C. Do tworzenia menu
+D. Do obsługi sensorów
+
+11. Który plik zawiera zasoby graficzne aplikacji?
+
+A. res/drawable
+B. res/layout
+C. res/values
+D. assets/db
+
+12. Co oznacza skrót APK?
+
+A. Android Programming Kit
+B. Application Package
+C. Android Package Kit
+D. Application Programming Kernel
+
+13. Który układ automatycznie ustawia elementy jeden pod drugim?
+
+A. RelativeLayout
+B. FrameLayout
+C. ConstraintLayout
+D. LinearLayout
+
+14. Do czego służy emulator Androida?
+
+A. Do testowania aplikacji bez fizycznego urządzenia
+B. Do publikowania aplikacji
+C. Do projektowania ikon
+D. Do tworzenia baz danych
+
+15. Które uprawnienie jest wymagane do dostępu do Internetu?
+
+A. ACCESS_WIFI
+B. INTERNET
+C. CONNECT_NETWORK
+D. WEB_ACCESS
+
+B
+C
+C
+B
+C
+B
+C
+C
+D
+B
+A
+C
+D
+A
+B
