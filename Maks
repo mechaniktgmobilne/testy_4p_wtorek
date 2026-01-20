@@ -1,1 +1,238 @@
+1. Do czego służy print w pythonie?
+a. do brania informacji od urzytkownika
+b. do wyciskania cytryn
+c. do znajdywania skarbów
+b. do hodowania szczurów
+e. do kopania grobów
+f. do operowania koparką
+g. do przyzywania krakena
+h. do zapominania
+i. co?
+j. do przycinania fryzury
+k. do smarzenia pierogów
+l. do latania samolotem
+m. do grania w gry
+n. do nagrywania
+o. do scigania sie ze starym dziadkiem z ulicy
+p. do rzucania przechodniami do celu
+r. do sadzenia drzew
+s. do tworzenia korków w rzymskim metrze ma odcinku Porte Lungo
+t. do cytowania słów Winstona Churchilla
+u. do tworzenia sypkiego makaronu
+w. kiedy
+x. do wypisywania tekstu
+y. do wczoraj
+z. do całopalenia
 
+2. Który z poniższych jest strukturą danych typu „drzewo”?
+A. Stack
+B. Queue
+C. Array
+D. HashMap
+E. Linked List
+F. Graph
+G. Set
+H. Heap
+I. Buffer
+J. Cache
+K. Socket
+L. Thread
+M. Process
+N. Semaphore
+O. Mutex
+P. Saxofone
+Q. Frame
+R. Token
+S. Segment
+T. Cluster
+U. Node
+V. Page
+W. Register
+X. Bus
+Y. Port
+Z. TreeMap
+
+3. Który z poniższych protokołów działa w warstwie transportowej modelu TCP/IP?
+A. HTTP
+B. HTTPS
+C. FTP
+D. SMTP
+E. IMAP
+F. POP3
+G. SSH
+H. Telnet
+I. DNS
+J. DHCP
+K. SNMP
+L. NTP
+M. RTP
+N. SIP
+O. QUIC
+P. WebSocket
+Q. ARP
+R. ICMP
+S. TCP
+T. UDP
+U. TLS
+V. SSL
+W. TFTP
+X. SMB
+Y. LDAP
+Z. MQTT
+
+4. Który z poniższych algorytmów ma złożoność średnią O(n log n)?
+A. Bubble Sort
+B. Insertion Sort
+C. Selection Sort
+D. Counting Sort
+E. Radix Sort
+F. Merge Sort
+G. Quick Sort
+H. BFS
+I. DFS
+J. Dijkstra
+K. Kruskal
+L. Prim
+M. Floyd‑Warshall
+N. Bellman‑Ford
+O. A*
+P. SHA‑256
+Q. MD5
+R. RSA
+S. LZW
+T. Huffman
+U. B‑Tree Search
+V. AVL Insert
+W. Red‑Black Insert
+X. Heap Sort
+Y. Boyer‑Moore
+Z. Z‑Algorithm
+
+5. Który z poniższych terminów dotyczy programowania współbieżnego?
+A. Klasa
+B. Obiekt
+C. Dziedziczenie
+D. Polimorfizm
+E. Interfejs
+F. Konstruktor
+G. Destruktor
+H. Metoda
+I. Atrybut
+J. Namespace
+K. Callback
+L. Iterator
+M. Singleton
+N. Refleksja
+O. Garbage Collector
+P. Mutex
+Q. Kompozycja
+R. Agregacja
+S. Dziedziczenie wielokrotne
+T. Mixin
+U. Typ statyczny
+V. Typ dynamiczny
+W. Makro
+X. Tokenizer
+Y. Parser
+Z. Interpreter
+
+6. Co oznacza == w JavaScript?
+A. Porównanie wartości i typu
+B. Porównanie tylko wartości
+C. Przypisanie
+
+7. Jak w C# tworzy się nowy obiekt klasy?
+A. new Klasa()  
+B. Klasa()  
+C. create Klasa
+
+8. Który język jest językiem funkcyjnym?
+A. Haskell
+B. SQL
+C. HTML
+
+9. Jak w Pythonie tworzy się listę?
+A. (1,2,3)  
+B. [1,2,3]  
+C. {1,2,3}
+
+10. Który język używa wskaźników?
+A. C
+B. Java
+C. Python
+
+11. Co oznacza public w OOP?
+A. Dostęp tylko w klasie
+B. Dostęp tylko w pakiecie
+C. Dostęp z dowolnego miejsca
+
+12. Jak w JavaScript deklaruje się zmienną o zasięgu blokowym?
+A. var  
+B. let  
+C. static
+
+13. Który język używa #include?
+A. C++
+B. Java
+C. Python
+
+14. Jak w Pythonie sprawdzić długość listy?
+A. size(list)  
+B. count(list)  
+C. len(list)
+
+15. Który język jest najczęściej używany do tworzenia backendu?
+A. PHP
+B. CSS
+C. HTML
+
+16. Co oznacza return w funkcji?
+A. Kończy funkcję i zwraca wartość
+B. Zatrzymuje program
+C. Tworzy nową zmienną
+
+17. Jak w Java definiuje się klasę?
+A. class Nazwa { }  
+B. define Nazwa { }  
+C. new class Nazwa
+
+18. Który język używa -> do dostępu do pól przez wskaźnik?
+A. C++
+B. Java
+C. Python
+D. Nie
+
+19. Jak w JavaScript zapisuje się funkcję strzałkową?
+A. function => () {}  
+B. () => {}  
+C. func() -> {}
+
+20. Który język jest najczęściej używany do tworzenia aplikacji mobilnych na Androida?
+A. Kotlin
+B. Swift
+C. Ruby
+
+21. W którym języku używa się klauzuli elif?
+A. Java
+B. Python
+C. C++
+
+22. Który język działa głównie w przeglądarce?
+A. JavaScript
+B. C#
+C. PHP
+
+23. Jak w C++ deklaruje się stałą?
+A. let x = 10  
+B. const int x = 10  
+C. static x = 10
+
+24. Który język jest kompilowany do bytecode i uruchamiany na maszynie wirtualnej?
+A. Java
+B. C
+C. Bash
+
+25. W którym języku używa się def do definiowania funkcji?
+A. Python
+B. Java
+C. C++
