@@ -1,1 +1,119 @@
+1. Które środowisko programistyczne można wykorzystać do tworzenia aplikacji mobilnych?
+A. Visual Studio
+B. Adobe Photoshop
+C. Microsoft Word
+D. FileZilla
 
+2. Jakie zadanie spełnia środowisko IDE w procesie tworzenia aplikacji mobilnych?
+A. Wyłącznie kompiluje kod
+B. Umożliwia projektowanie, kodowanie i testowanie aplikacji
+C. Służy tylko do publikacji aplikacji
+D. Przechowuje dane użytkownika
+
+3. Który język programowania jest stosowany w aplikacjach mobilnych?
+A. Swift
+B. PHP
+C. HTML
+D. SQL
+
+4. Który język może być używany do tworzenia aplikacji mobilnych na różnych platformach?
+A. C#
+B. Pascal
+C. Bash
+D. Assembly
+
+5. Który z poniższych elementów jest składnikiem interfejsu użytkownika aplikacji mobilnej?
+A. Przycisk
+B. Protokół TCP
+C. Serwer DNS
+D. Kompilator
+
+6. Do czego służy język XAML w aplikacjach mobilnych?
+A. Do obsługi połączeń sieciowych
+B. Do definiowania interfejsu użytkownika
+C. Do zapisu danych w bazie
+D. Do testowania aplikacji
+
+7. Który element UI umożliwia użytkownikowi wprowadzanie tekstu?
+A. Label
+B. ImageView
+C. TextBox
+D. ProgressBar
+
+8. Która aplikacja mobilna korzysta z systemu nawigacji satelitarnej?
+A. Zegar
+B. Formularz
+C. Lokalizacja
+D. Kalendarz
+
+9. Do czego służą preferencje użytkownika w aplikacji mobilnej?
+A. Do przechowywania ustawień aplikacji
+B. Do zapisu dużych plików wideo
+C. Do komunikacji z serwerem
+D. Do przechowywania kodu aplikacji
+
+10. Który element UI służy do prezentowania listy danych?
+A. Button
+B. ListView
+C. TextBox
+D. ImageView
+
+11. Jaką rolę pełni emulator w tworzeniu aplikacji mobilnych?
+A. Publikuje aplikację w sklepie
+B. Symuluje działanie urządzenia mobilnego
+C. Tworzy bazę danych
+D. Projektuje interfejs użytkownika
+
+12. Która technologia umożliwia aplikacji mobilnej pobieranie danych z internetu?
+A. GPS
+B. API sieciowe
+C. NFC
+D. Bluetooth
+
+13. Która baza danych jest często wykorzystywana lokalnie w aplikacjach mobilnych?
+A. Oracle
+B. SQLite
+C. PostgreSQL
+D. MS Access
+
+14. Który element UI informuje użytkownika o postępie wykonywanej operacji?
+A. Button
+B. TextBox
+C. ProgressBar
+D. ImageView
+
+15. Co oznacza skrót RAD w kontekście tworzenia aplikacji?
+A. Remote Application Deployment
+B. Rapid Application Development
+C. Runtime Application Debugging
+D. Resource Allocation Design
+
+16. Która aplikacja mobilna służy do zarządzania wydarzeniami i datami?
+A. Zegar
+B. Lokalizacja
+C. Kalendarz
+D. Nawigacja
+
+17. Co umożliwia dostosowanie aplikacji mobilnej do różnych rozmiarów ekranów?
+A. Kompilator
+B. Responsywny interfejs użytkownika
+C. Emulator
+D. Baza danych
+
+18. Która czynność jest wymagana przed publikacją aplikacji mobilnej?
+A. Testowanie aplikacji
+B. Instalacja emulatora
+C. Zmiana języka systemu
+D. Usunięcie środowiska IDE
+
+19. Co umożliwia uruchomienie aplikacji mobilnej na urządzeniu użytkownika?
+A. Kompilacja i instalacja aplikacji
+B. Sam zapis kodu
+C. Projekt interfejsu
+D. Utworzenie bazy danych
+
+20. Który element aplikacji mobilnej odpowiada za obsługę dźwięku lub animacji?
+A. Logika aplikacji i UI
+B. Protokół sieciowy
+C. System plików
+D. Emulator
