@@ -1,1 +1,89 @@
+1. Które środowisko programistyczne jest najczęściej wykorzystywane do tworzenia aplikacji mobilnych na system Android?
+   A. Visual Studio Code
+   B. Eclipse
+   C. Android Studio **(odpowiedź poprawna)**
+   D. NetBeans
 
+2. W jakim języku programowania najczęściej tworzy się aplikacje mobilne na system Android?
+   A. Swift
+   B. Kotlin
+   C. Java **(odpowiedź poprawna)**
+   D. Objective-C
+
+3. Który plik w projekcie Android odpowiada za definicję interfejsu użytkownika?
+   A. AndroidManifest.xml
+   B. MainActivity.java
+   C. activity_main.xml **(odpowiedź poprawna)**
+   D. build.gradle
+
+4. Który element interfejsu użytkownika służy do wywołania akcji po kliknięciu przez użytkownika?
+   A. TextView
+   B. ImageView
+   C. Button **(odpowiedź poprawna)**
+   D. ProgressBar
+
+5. Do czego służy metoda `onCreate()` w aplikacji Android?
+   A. Zamyka aplikację
+   B. Obsługuje połączenie z internetem
+   C. Inicjalizuje aktywność **(odpowiedź poprawna)**
+   D. Zapisuje dane do bazy
+
+6. Który mechanizm Androida służy do przechowywania prostych danych użytkownika, np. ustawień?
+   A. Intent
+   B. SharedPreferences **(odpowiedź poprawna)**
+   C. SQLite
+   D. RecyclerView
+
+7. Do czego wykorzystywana jest lokalna baza danych w aplikacji mobilnej?
+   A. Do tworzenia interfejsu
+   B. Do uruchamiania aplikacji
+   C. Do przechowywania danych **(odpowiedź poprawna)**
+   D. Do publikacji aplikacji
+
+8. Który komponent Androida umożliwia przechodzenie między ekranami aplikacji?
+   A. Fragment
+   B. Layout
+   C. Intent **(odpowiedź poprawna)**
+   D. Service
+
+9. Które uprawnienie jest wymagane, aby aplikacja mogła korzystać z internetu?
+   A. ACCESS_WIFI_STATE
+   B. NETWORK_ACCESS
+   C. INTERNET **(odpowiedź poprawna)**
+   D. USE_WEB
+
+10. Który format danych jest najczęściej wykorzystywany do komunikacji aplikacji mobilnej z serwerem?
+    A. XML
+    B. TXT
+    C. JSON **(odpowiedź poprawna)**
+    D. CSV
+
+11. Która funkcja aplikacji mobilnej wykorzystuje lokalizację urządzenia?
+    A. Zegar
+    B. Formularz
+    C. Lokalizacja GPS **(odpowiedź poprawna)**
+    D. Kalendarz
+
+12. Do testowania aplikacji mobilnych w Android Studio używa się:
+    A. Serwera WWW
+    B. Emulatora Androida **(odpowiedź poprawna)**
+    C. Konsoli systemowej
+    D. Maszyny wirtualnej Java
+
+13. Która czynność jest wymagana przed opublikowaniem aplikacji w Google Play?
+    A. Usunięcie plików projektu
+    B. Podpisanie aplikacji cyfrowo **(odpowiedź poprawna)**
+    C. Wyłączenie internetu
+    D. Zmiana języka aplikacji
+
+14. Który element aplikacji Android odpowiada za wyświetlanie list danych?
+    A. Button
+    B. TextView
+    C. RecyclerView **(odpowiedź poprawna)**
+    D. ImageView
+
+15. Do czego służą powiadomienia w aplikacjach mobilnych?
+    A. Do zapisu danych
+    B. Do komunikacji aplikacji z użytkownikiem **(odpowiedź poprawna)**
+    C. Do testowania aplikacji
+    D. Do tworzenia interfejsu
