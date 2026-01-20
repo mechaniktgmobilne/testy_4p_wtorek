@@ -1,1 +1,241 @@
+1. Który system operacyjny jest przeznaczony dla urządzeń mobilnych firmy Apple?
 
+A. Android
+B. Windows
+C. iOS
+D. Linux
+
+2. Który język programowania jest wykorzystywany do tworzenia aplikacji na Androida?
+
+A. Swift
+B. Java
+C. Objective-C
+D. Pascal
+
+3. Do czego służy język XAML w aplikacjach mobilnych?
+
+A. Tworzenia baz danych
+B. Projektowania interfejsu użytkownika
+C. Obsługi internetu
+D. Testowania aplikacji
+
+4. Który element UI służy do wyświetlania listy danych?
+
+A. Button
+B. TextBox
+C. ListView
+D. Image
+
+5. Który element UI umożliwia użytkownikowi wprowadzanie tekstu?
+
+A. Label
+B. Button
+C. Image
+D. TextBox
+
+6. Który element interfejsu użytkownika służy do wywoływania akcji?
+
+A. Label
+B. Button
+C. Image
+D. ProgressBar
+
+7. Która technologia służy do przechowywania ustawień użytkownika w aplikacji mobilnej?
+
+A. GPS
+B. SharedPreferences
+C. API REST
+D. Emulator
+
+8. Która baza danych jest najczęściej używana lokalnie w aplikacjach mobilnych?
+
+A. MySQL
+B. Oracle
+C. SQLite
+D. PostgreSQL
+
+9. Który protokół zapewnia bezpieczną komunikację aplikacji z serwerem?
+
+A. FTP
+B. SMTP
+C. HTTP
+D. HTTPS
+
+10. Który format danych jest najczęściej używany do wymiany danych z API?
+
+A. TXT
+B. CSV
+C. JSON
+D. DOC
+
+11. Który element umożliwia aplikacji mobilnej określenie położenia użytkownika?
+
+A. NFC
+B. Bluetooth
+C. GPS
+D. Wi-Fi
+
+12. Która aplikacja jest przykładem prostej aplikacji mobilnej?
+
+A. System bankowy
+B. Zegar
+C. System ERP
+D. Platforma e-learningowa
+
+13. Które narzędzie umożliwia uruchomienie aplikacji mobilnej bez fizycznego urządzenia?
+
+A. Debugger
+B. Emulator
+C. Kompilator
+D. Repozytorium
+
+14. Która czynność polega na sprawdzeniu poprawności działania aplikacji?
+
+A. Projektowanie
+B. Publikacja
+C. Testowanie
+D. Kompilacja
+
+15. Który element UI odpowiada za nawigację między ekranami aplikacji?
+
+A. TextBox
+B. Label
+C. Nawigacja
+D. Image
+
+16. Który język programowania jest wykorzystywany do tworzenia aplikacji na iOS?
+
+A. Java
+B. Kotlin
+C. Swift
+D. Python
+
+17. Która czynność jest wymagana przed opublikowaniem aplikacji w sklepie?
+
+A. Instalacja systemu operacyjnego
+B. Podpisanie aplikacji certyfikatem
+C. Utworzenie emulatora
+D. Zainstalowanie przeglądarki
+
+18. Który element należy do warstwy interfejsu użytkownika?
+
+A. Baza danych
+B. Algorytm
+C. Przycisk
+D. Serwer
+
+19. Która technologia umożliwia pobieranie danych z internetu w aplikacji mobilnej?
+
+A. SQLite
+B. GPS
+C. API REST
+D. XAML
+
+20. Która czynność polega na uruchomieniu aplikacji na urządzeniu mobilnym?
+
+A. Projektowanie
+B. Publikacja
+C. Instalacja
+D. Testowanie
+
+21. Który element UI służy do wyświetlania obrazu w aplikacji?
+
+A. Button
+B. TextBox
+C. Image
+D. ListView
+
+22. Który system operacyjny jest najczęściej wykorzystywany na smartfonach?
+
+A. iOS
+B. Android
+C. Windows
+D. Linux
+
+23. Która aplikacja korzysta z lokalizacji użytkownika?
+
+A. Kalkulator
+B. Odtwarzacz muzyki
+C. Nawigacja
+D. Notatnik
+
+24. Który element UI służy do wyświetlania krótkich komunikatów?
+
+A. Label
+B. Button
+C. TextBox
+D. ListView
+
+25. Która czynność polega na stworzeniu wyglądu aplikacji?
+
+A. Testowanie
+B. Projektowanie UI
+C. Kompilacja
+D. Publikacja
+
+26. Który plik opisuje interfejs użytkownika w XAML?
+
+A. .java
+B. .xml
+C. .xaml
+D. .sql
+
+27. Który element UI umożliwia wprowadzanie danych w formularzu?
+
+A. Image
+B. TextBox
+C. Label
+D. ProgressBar
+
+28. Który element jest wymagany przy publikacji aplikacji w sklepie?
+
+A. Emulator
+B. Zrzuty ekranu aplikacji
+C. Kabel USB
+D. Edytor kodu
+
+29. Który typ aplikacji korzysta z bazy danych?
+
+A. Tapeta
+B. Lista zadań
+C. Kalkulator
+D. Latarka
+
+30. Dlaczego tworzy się aplikacje dostosowane do smartfonów i tabletów?
+
+A. Inny język programowania
+B. Różne rozdzielczości ekranów
+C. Inny system plików
+D. Inny typ procesora
+
+Klucz odpowiedzi:
+1.C
+2.B
+3.B
+4.C
+5.D
+6.B
+7.B
+8.C
+9.D
+10.C
+11.C
+12.B
+13.B
+14.C
+15.C
+16.C
+17.B
+18.C
+19.C
+20.C
+21.C
+22.B
+23.C
+24.A
+25.B
+26.C
+27.B
+28.B
+29.B
+30.B
