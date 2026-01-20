@@ -1,1 +1,144 @@
+1. Które środowisko programistyczne należy wybrać do tworzenia aplikacji mobilnych na system Android w języku Kotlin?
+
+A. Visual Studio
+B. XCode
+C. Android Studio
+D. Eclipse IDE
+
+C
+
+2.Która cecha najlepiej opisuje środowiska typu IDE oraz RAD wykorzystywane w tworzeniu aplikacji?
+
+A. Umożliwiają jedynie edycję plików tekstowych bez kompilacji
+B. Zapewniają integrację edytora kodu, kompilatora oraz narzędzi do debugowania
+C. Służą wyłącznie do projektowania grafiki interfejsu użytkownika
+D. Działają tylko w trybie wiersza poleceń
+
+B
+
+3. Które narzędzie jest najczęściej wykorzystywane do testowania aplikacji mobilnych na wirtualnym urządzeniu bez konieczności użycia fizycznego smartfona?
+
+A. Emulator systemu operacyjnego
+B. System kontroli wersji Git
+C. Edytor kodu źródłowego
+D. Kompilator aplikacji
+
+A
+
+4. Który zestaw narzędzi i język programowania jest właściwy do tworzenia natywnych aplikacji mobilnych na system Android?
+
+A. XCode i Swift
+B. Android Studio i Kotlin
+C. Visual Studio i C++
+D. Eclipse i PHP
+
+B
+
+5.Który język programowania jest obecnie rekomendowany przez firmę Apple do tworzenia aplikacji mobilnych na system iOS?
+
+A. Java
+B. Swift
+C. C#
+D. PHP
+
+B
+
+6.Który mechanizm w aplikacjach mobilnych na system Android jest najczęściej wykorzystywany do przechowywania prostych danych i preferencji użytkownika, takich jak ustawienia aplikacji?
+
+A. SharedPreferences
+B. Intent
+C. RecyclerView
+D. Activity
+
+A
+
+7. Który element interfejsu użytkownika w aplikacji mobilnej służy do wyświetlania listy danych, które użytkownik może przewijać?
+
+A. Button
+B. Dialog
+C. RecyclerView
+D. Toolbar
+
+C
+
+8. Do czego służy język XAML w procesie tworzenia aplikacji mobilnych?
+
+A. Do definiowania logiki działania aplikacji
+B. Do opisu struktury i wyglądu interfejsu użytkownika
+C. Do zarządzania bazą danych aplikacji
+D. Do kompilowania kodu źródłowego
+
+B
+
+9. Który element interfejsu użytkownika w aplikacji mobilnej jest najczęściej wykorzystywany do wywoływania akcji po naciśnięciu przez użytkownika?
+
+A. TextView
+B. ImageView
+C. Button
+D. ProgressBar
+
+C
+
+10. Która usługa systemowa w aplikacjach mobilnych na Androidzie jest wykorzystywana do pobierania aktualnej lokalizacji urządzenia w aplikacjach typu nawigacja?
+
+A. NotificationManager
+B. LocationManager
+C. AlarmManager
+D. SensorManager
+
+B
+
+11. Która klasa w Androidzie jest najczęściej wykorzystywana do wykonywania zapytań HTTP i pobierania danych z internetu w aplikacjach mobilnych?
+
+A. HttpURLConnection
+B. SharedPreferences
+C. RecyclerView
+D. Intent
+
+A
+
+12. Która technologia jest najczęściej wykorzystywana w aplikacjach mobilnych na Androidzie do lokalnego przechowywania danych w formie bazy danych SQL?
+
+A. SQLite
+B. Firebase Cloud Messaging
+C. SharedPreferences
+D. Retrofit
+
+A
+
+13. Które podejście najlepiej zapewnia, że aplikacja mobilna będzie poprawnie działać zarówno na smartfonie, jak i na tablecie z systemem Android?
+
+A. Tworzenie jednej aplikacji bez uwzględnienia rozdzielczości ekranu
+B. Projektowanie interfejsu responsywnego i wykorzystanie różnych układów dla różnych typów urządzeń
+C. Wysyłanie aplikacji tylko na smartfony, a tablet zostawić bez wsparcia
+D. Korzystanie wyłącznie z języka Java bez narzędzi UI
+
+B
+
+14. Które narzędzie w procesie tworzenia aplikacji mobilnych pozwala na uruchomienie i testowanie aplikacji bezpośrednio na wirtualnym urządzeniu?
+
+A. Emulator
+B. Git
+C. Visual Studio Code
+D. SQLite
+
+A
+
+15. Który z poniższych kroków jest niezbędny przed opublikowaniem aplikacji mobilnej w sklepie Google Play lub App Store?
+
+A. Zmiana języka programowania aplikacji
+B. Utworzenie konta deweloperskiego i podpisanie aplikacji odpowiednim kluczem cyfrowym
+C. Uruchomienie aplikacji tylko na emulatorze
+D. Usunięcie wszystkich funkcji sieciowych
+
+B
+
+16. Co jest typową cechą środowisk IDE i RAD?
+A. Umożliwiają jedynie edycję tekstu
+B. Integrują edytor kodu, kompilator i narzędzia debugowania
+C. Służą wyłącznie do projektowania grafiki
+D. Działają tylko w wierszu poleceń
+
+B
+
 
