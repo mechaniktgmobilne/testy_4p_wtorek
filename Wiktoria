@@ -1,1 +1,354 @@
 
+1. Aplikacja mobilna to program przeznaczony dla:
+
+A. komputerów stacjonarnych
+B. urządzeń mobilnych ✔
+C. serwerów
+D. routerów
+
+2. Środowisko IDE najczęściej używane do tworzenia aplikacji Android to:
+
+A. Xcode
+B. Android Studio ✔
+C. Visual Studio
+D. Eclipse
+
+3. Język nativny do tworzenia aplikacji Android to:
+
+A. Swift
+B. Python
+C. PHP
+D. Kotlin ✔
+
+4. Język programowania najczęściej używany do aplikacji iOS to:
+
+A. Java
+B. C++
+C. Swift ✔
+D. Bash
+
+5. Plik konfiguracyjny aplikacji Android, w którym deklaruje się komponenty i uprawnienia, to:
+
+A. config.json
+B. manifest.txt
+C. AndroidManifest.xml ✔
+D. settings.ini
+
+6. Elementy interfejsu UI w aplikacji mobilnej to np.:
+
+A. pakiety systemowe
+B. przyciski, listy, formularze ✔
+C. adresy IP
+D. rekordy bazy danych
+
+7. W aplikacjach mobilnych UI zwykle projektuje się w:
+
+A. HTML
+B. JSON
+C. CSV
+D. XML ✔
+
+8. Testowanie aplikacji mobilnej służy do sprawdzenia:
+
+A. tylko wyglądu
+B. funkcjonalności i błędów ✔
+C. tylko bazy danych
+D. tylko serwera
+
+9. Aby aplikacja mogła pobierać dane z internetu, zwykle korzysta z:
+
+A. FTP
+B. API / HTTP ✔
+C. POP3
+D. DNS
+
+10. Lokalną bazą danych najczęściej wykorzystywaną w aplikacjach mobilnych jest:
+
+A. SMTP
+B. SQLite ✔
+C. FTP
+D. JSON
+
+11. Uprawnienia w aplikacjach mobilnych służą do kontrolowania dostępu do:
+
+A. plików systemowych Windows
+B. BIOS
+C. GPS, aparatu, kontaktów ✔
+D. tylko internetu
+
+12. Aplikacje hybrydowe tworzy się za pomocą:
+
+A. tylko C++
+B. tylko Assembler
+C. technologii web + natywne ✔
+D. tylko Basha
+
+13. Plik APK to:
+
+A. typ bazy danych
+B. instalator aplikacji Android ✔
+C. skrypt PHP
+D. system plików
+
+14. Element UI „Button” służy do:
+
+A. kompresowania danych
+B. wywoływania akcji po naciśnięciu ✔
+C. przechowywania danych
+D. obsługi protokołów
+
+15. UI responsywny oznacza:
+
+A. szybki internet
+B. dostosowanie do różnych ekranów ✔
+C. wielkie ikony
+D. tylko animacje
+
+16. Framework Flutter służy do:
+
+A. edycji filmów
+B. testowania routerów
+C. kompresowania danych
+D. tworzenia aplikacji mobilnych ✔
+
+17. React Native to narzędzie do:
+
+A. hostingu WWW
+B. tworzenia baz SQL
+C. wirtualizacji
+D. tworzenia aplikacji mobilnych ✔
+
+18. Prototyp UI najlepiej testować testami:
+
+A. serwera
+B. bezpieczeństwa
+C. wydajności
+D. interfejsu ✔
+
+19. Debugger służy do:
+
+A. kompresji danych
+B. wyszukiwania błędów ✔
+C. tworzenia grafiki
+D. zarządzania pamięcią
+
+20. W aplikacjach mobilnych jednostka „dp” oznacza:
+
+A. piksele faktyczne
+B. procenty ekranu
+C. milimetry
+D. niezależne piksele gęstości ✔
+
+21. Kontrolka typu ListView / RecyclerView służy do:
+
+A. odtwarzania audio
+B. szyfrowania danych
+C. projektowania baz
+D. wyświetlania listy elementów ✔
+
+22. Aplikacja może publikować powiadomienia:
+
+A. tylko SMS
+B. tylko offline
+C. tylko email
+D. lokalne lub push ✔
+
+23. „tap” w aplikacji mobilnej oznacza:
+
+A. przewinięcie
+B. stuknięcie elementu UI ✔
+C. kliknięcie prawym
+D. otwarcie menu
+
+24. Aplikacja, która zapisuje listę kontaktów, to przykład aplikacji mobilnej z:
+
+A. UI tylko
+B. bazą danych ✔
+C. serwerem FTP
+D. tylko zdjęciami
+
+25. Framework to:
+
+A. moduł baz danych
+B. system operacyjny
+C. narzędzie do grafiki
+D. platforma z gotowymi komponentami ✔
+
+26. Aby ograniczyć liczbę danych zbieranych przez aplikacje, należy:
+
+A. udostępniać wszystkie dane
+B. zawsze akceptować uprawnienia
+C. ignorować żądania aplikacji
+D. regulować uprawnienia w ustawieniach ✔
+
+27. Testy wydajnościowe służą do:
+
+A. sprawdzania tylko UI
+B. analizowania działania pod obciążeniem
+C. poprawiania grafiki
+D. tylko zmian kolorów
+
+✔ Poprawna: B
+
+28. User story w aplikacji to:
+
+A. typ pliku
+B. adres IP
+C. logo aplikacji
+D. opis funkcjonalności z punktu widzenia użytkownika ✔
+
+29. JSON to format:
+
+A. obrazu
+B. muzyki
+C. wideo
+D. danych ✔
+
+30. UX oznacza:
+
+A. tylko UI
+B. doświadczenie użytkownika ✔
+C. narzędzia backend
+D. router
+
+31. Aplikacje mobilne publikowane są w:
+
+A. DVD
+B. sklepach App Store/Google Play ✔
+C. katalogach FTP
+D. email
+
+32. Emulator używany jest do:
+
+A. uruchomienia aplikacji bez fizycznego urządzenia
+B. projektowania grafiki
+C. testowania DNS
+D. kompresowania kodu
+
+✔ Poprawna: A
+
+33. Fragment w Android to:
+
+A. tabela bazy
+B. moduł UI ✔
+C. switch sieciowy
+D. firewall
+
+34. REST to:
+
+A. protokół SMTP
+B. architektura API ✔
+C. język UI
+D. system plików
+
+35. Funkcja GET w HTTP służy do:
+
+A. usuwania zasobów
+B. wysyłania plików na serwer
+C. pobierania danych ✔
+D. resetowania serwera
+
+36. Funkcja POST w HTTP służy do:
+
+A. tylko odczytu
+B. resetowania urządzenia
+C. wysyłania danych ✔
+D. tylko zmiany UI
+
+37. W aplikacjach mobilnych przycisk „Back” zwykle powoduje:
+
+A. restart systemu
+B. reset danych
+C. powrót do poprzedniego ekranu ✔
+D. wyłączenie aplikacji
+
+38. Aby aplikacja mogła korzystać z aparatu telefonu, trzeba:
+
+A. tylko uruchomić aplikację
+B. zadeklarować uprawnienie w manifestie ✔
+C. kliknąć w ikonę aparatu
+D. nic nie robić
+
+39. Testy jednostkowe sprawdzają:
+
+A. cały system
+B. design UI
+C. pojedyncze fragmenty kodu ✔
+D. tylko serwer
+
+40. Testy integracyjne sprawdzają:
+
+A. pojedyncze linie kodu
+B. współdziałanie modułów aplikacji ✔
+C. wyłącznie bazę danych
+D. tylko grafikę UI
+
+41. Git to narzędzie do:
+
+A. kompresji danych
+B. zarządzania wersjami kodu
+C. zarządzania wersjami kodu ✔
+D. edycji obrazów
+
+42. Element UI PoleTekstowe służy do:
+
+A. tylko wyświetlania obrazu
+B. wprowadzania tekstu przez użytkownika ✔
+C. zapisu bazy danych
+D. obsługi FTP
+
+43. Przy publikacji aplikacji mobilnej najważniejsze jest:
+
+A. tylko estetyka
+B. zgodność z wymogami sklepu i platformy ✔
+C. tylko nazwa aplikacji
+D. tylko kolory UI
+
+44. UI Slider umożliwia:
+
+A. zmianę koloru tła
+B. wybieranie wartości z zakresu ✔
+C. reset danych
+D. zapisywanie plików
+
+45. W aplikacjach mobilnych animacje służą do:
+
+A. niczego
+B. poprawy doświadczenia użytkownika (UX) ✔
+C. tylko wypełniania tła
+D. tylko synchronizacji danych
+
+46. W aplikacji mobilnej alert służy do:
+
+A. restartu aplikacji
+B. wyświetlania komunikatów użytkownikowi ✔
+C. zmiany bazy danych
+D. resetowania ekranu
+
+47. W aplikacjach offline dane można przechowywać w:
+
+A. tylko serwerze
+B. lokalnej bazie danych ✔
+C. tylko cloud
+D. email
+
+48. Debugowanie pozwala na:
+
+A. tylko dodawanie nowych funkcji
+B. wyszukiwanie i usuwanie błędów w kodzie ✔
+C. tylko analizę UI
+D. tylko zmianę kolorów
+
+49. Aplikacja responsywna lepiej działa na:
+
+A. jednej rozdzielczości
+B. różnych wielkościach ekranów ✔
+C. tylko desktopie
+D. tylko tablecie
+
+50. API w aplikacji mobilnej oznacza:
+
+A. katalog systemowy
+B. tylko bazę danych
+C. interfejs do komunikowania się z serwerem ✔
+D. tylko UI komponent
